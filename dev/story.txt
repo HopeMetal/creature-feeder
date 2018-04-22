@@ -1,0 +1,4 @@
+You have been thrown into a dungeon with a hungry creature to be its caretaker.
+You must now feed and play with it.
+If you fail you will be eaten.
+"Good Luck"
